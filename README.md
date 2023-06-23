@@ -2,7 +2,11 @@
 
 ## Project Authors
 - Dan Mouris
+<<<<<<< HEAD
 - Rick Idonotexistdotcom
+=======
+- Student Name Here
+>>>>>>> 44cc3b3 (add myself to author list)
 
 ## What is CodeHaven?
 CodeHaven is an innovative platform that brings together developers from all backgrounds to explore, create, and collaborate on coding projects. It serves as a sanctuary for passionate coders, providing a supportive and inspiring environment to fuel their creativity.
