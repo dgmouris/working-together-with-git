@@ -2,6 +2,7 @@
 
 ## Project Authors
 - Dan Mouris
+- Student Name Here
 
 ## What is CodeHaven?
 CodeHaven is an open-source project dedicated to fostering collaboration, learning, and innovation in the coding community. Our mission is to provide a welcoming and inclusive environment where developers of all levels can come together to share knowledge, contribute to projects, and expand their skills.
